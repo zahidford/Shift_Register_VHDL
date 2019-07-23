@@ -12,7 +12,7 @@ port (
 		Data_in : in std_logic;
 		Reset : in std_logic;
 		Clock : in std_logic);
-		
+end Shift_Register;		
 --architecture
 
 architecture behaviour of Shift_Register is
